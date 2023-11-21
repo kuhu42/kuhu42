@@ -41,10 +41,9 @@
 
 ## GitHub Stats
 <div id="stats" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuhu42&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/> <!-- <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=kuhu42&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats"/>-->
-<img height="180cm" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhu42&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
+<!-- <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=kuhu42&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>--><img height="180cm" align="centre" src="https://github-readme-stats.vercel.app/api?username=kuhu42&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhu42&theme=radical&show_icons=true&hide_border=true&layout=compact"/> 
 </div>
-
 
 <!--
 **kuhu42/kuhu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
