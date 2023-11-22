@@ -62,10 +62,9 @@
 </div>
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
-<a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfl4attx5tynfckcp03h84aca&cover_image=true&theme=compact&show_offline=false&background_color=004d65&interchange=false" alt="Spotify GitHub Profile" />
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lfl4attx5tynfckcp03h84aca&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lfl4attx5tynfckcp03h84aca&cover_image=true&theme=compact&show_offline=false&background_color=004d65&interchange=false" alt="Spotify GitHub Profile" />
 </a>
-
 </div>
 <br>
 <div align="center" style="text-align:center;">
