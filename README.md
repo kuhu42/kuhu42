@@ -1,7 +1,12 @@
-## Hey 👋 I'm Anushka Srivastava
+<div align="center">
+<img width=1000px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZpY3Iya3duaGtkZWtpeWVzY2J5MG01NmJ0b2VqdG9ua2ZkamRiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaAnM8hIvjyEvzYhlW/giphy.gif">
+</div>
+
+## 👋 Hey, I'm Anushka
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=${kuhu42}.${kuhu42}"/>
 
-### Sophmore CSE Undergraduate
+### I'm a Sophmore CSE Undergraduate
 🌱 I’m currently learning CNN<br>
 👯 I’m looking to collaborate on ML projects<br>
 📫 Reach me at: anusri1904@gmail.com
@@ -19,8 +24,9 @@
     <img src="https://img.shields.io/badge/Discord-critical?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 
-## :hammer_and_wrench: Tech Stack:
+## 🛠️ Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -36,23 +42,35 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 
-## GitHub Stats
+## 📈 GitHub Stats
 <div id="stats" align="center">
 <!-- <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=kuhu42&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>--><img height="180cm" align="centre" src="https://github-readme-stats.vercel.app/api?username=kuhu42&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhu42&theme=radical&show_icons=true&hide_border=true&layout=compact"/> 
 </div>
+<br>
 
-## :writing_hand: Blog:
+## 🖇️ Blogs & Music:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<div align="right">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfl4attx5tynfckcp03h84aca&cover_image=true&theme=compact&show_offline=false&background_color=004d65&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+<div align="center" style="text-align:center;">
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=35&width=800&duration=6969&lines=Thank+You+For+Stopping+By!)](https://git.io/typing-svg)
+</div>
+
 <!--
 **kuhu42/kuhu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
--  ...
+-  ...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 
