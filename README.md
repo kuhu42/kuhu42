@@ -51,7 +51,11 @@
 </div>
 <br>
 
-## 🖇️ Blogs & Music:
+## 🎱 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuhu42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
+## 🖇️ Blogs & Music
 <!-- BLOG-POST-LIST:START -->
 <div>
   <a href="https://medium.com/data-science-community-srm/deciphering-robo-emotions-unraveling-the-path-to-artificial-empathy-88e3d75479e3">◦ Deciphering Robo-Emotions: Unraveling the Path to Artificial Empathy</a>
