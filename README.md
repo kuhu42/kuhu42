@@ -2,7 +2,7 @@
 <img width=1000px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZpY3Iya3duaGtkZWtpeWVzY2J5MG01NmJ0b2VqdG9ua2ZkamRiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaAnM8hIvjyEvzYhlW/giphy.gif">
 </div>
 
-## 👋 Hey, I'm Anushka
+# 👋 Hey, I'm Anushka
 
 ![](https://komarev.com/ghpvc/?username=kuhu42)
 
