@@ -4,7 +4,7 @@
 
 ## 👋 Hey, I'm Anushka
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=${kuhu42}.${kuhu42}"/>
+![](https://komarev.com/ghpvc/?username=kuhu42)
 
 ### I'm a Sophmore CSE Undergraduate
 🌱 I’m currently learning CNN<br>
@@ -52,7 +52,10 @@
 <br>
 
 ## 🎱 GitHub Trophies
+<div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuhu42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <br>
 
 ## 🖇️ Blogs & Music
