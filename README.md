@@ -53,16 +53,21 @@
 
 ## 🖇️ Blogs & Music:
 <!-- BLOG-POST-LIST:START -->
+<div>
+  <a href="https://medium.com/data-science-community-srm/deciphering-robo-emotions-unraveling-the-path-to-artificial-empathy-88e3d75479e3">◦ Deciphering Robo-Emotions: Unraveling the Path to Artificial Empathy</a>
+</div>
 <!-- BLOG-POST-LIST:END -->
 <div align="right">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfl4attx5tynfckcp03h84aca&cover_image=true&theme=compact&show_offline=false&background_color=004d65&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfl4attx5tynfckcp03h84aca&cover_image=true&theme=compact&show_offline=false&background_color=004d65&interchange=false" alt="Spotify GitHub Profile" />
+</a>
+
+</div>
+<br>
+<div align="center" style="text-align:center;">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F2E7FF80&random=false&width=435&lines=Thank+You+For+Stopping+By+:]" alt="Typing SVG" /></a>
 </div>
 
-<div align="center" style="text-align:center;">
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=35&width=800&duration=6969&lines=Thank+You+For+Stopping+By!)](https://git.io/typing-svg)
-</div>
 
 <!--
 **kuhu42/kuhu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,7 +78,7 @@ Here are some ideas to get you started:
 -  ...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=35&width=800&duration=6969&lines=Thank+You+For+Stopping+By!)](https://git.io/typing-svg)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
