@@ -17,10 +17,10 @@
   <a href="https://medium.com/@kuhu42">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/as12081">
+  <a href="https://www.hackerrank.com/profile/as1201">
     <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://discord.com/@kuhu42">
+   <a href="https://discord.com/@uhu42">
     <img src="https://img.shields.io/badge/Discord-critical?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
