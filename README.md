@@ -11,7 +11,7 @@
 👯 I’m looking to collaborate on ML projects<br>
 📫 Reach me at: anusri1904@gmail.com
 <div id="badges">
-  <a href="www.linkedin.com/in/anushka42">
+  <a href="https://www.linkedin.com/in/kuhu42/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@kuhu42">
